@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Class
 {
-    public class Complex_number
+    class Complex_number
     {
         private double a1; //Действительная часть
         private double b1; //Мнимая часть
