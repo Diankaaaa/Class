@@ -28,7 +28,7 @@ namespace Class
             return b1;
         }
 
-        //Функция для вычисления модуля комплексного числа
+        //Функция вычисления модуля комплексного числа
         public double ABC()
         {
             return Math.Sqrt(a1 * a1 + b1 * b1);
