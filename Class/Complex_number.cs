@@ -11,6 +11,7 @@ namespace Class
         private double a1; //Действительная часть
         private double b1; //Мнимая часть
 
+        //Конструктор
         public Complex_number(double real, double imaginary)
         {
             this.a1 = real;
